@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HotHouston</string>
+    <string name="open_weather_api_key">2f4851102aaa4ec8a159a67b91e254e1</string>
+    <string name="get_temp_button_initial_text">Click the fire icon to get the temperature in Houston!</string>
+</resources>
